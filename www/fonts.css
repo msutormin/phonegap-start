@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Scada'), local('Scada-Regular'), url(F5Y0Urxz0lcNByUbLZLu9g.woff) format('woff');
+}
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cuprum'), local('Cuprum-Regular'), url(wHBEZCjwNI3HN2fD1RQJgw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Cuprum';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Cuprum Bold'), local('Cuprum-Bold'), url(n3IzcUkIerri6e9sz7Dgbj8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
